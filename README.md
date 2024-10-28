@@ -1,2 +1,2 @@
 # PcKaPnChKeyLogger
-A short, concise script for key logging on an installed computer; creating a local .txt file and sending the file over email over a period of 24 hours
+A short, concise script for key logging on an installed computer; creating a local .txt file and sending the file over email over a period of 24 hours. This program runs in a .pyw format which allows it to run without creating a terminal. From my current knowledge, it can only be stopped by using the task manager or other similar applications. Due to the simplicity of the script, it wasn't hard to make but it was difficult because I had never learned anything about these packages, how to install them, or how to use them in the program
